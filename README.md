@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @hellom98
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭  Learning Development
+- 🎓  Computer and Technology
+- 💼  Developer
+- ✍️  Novels
+- ☕  Coffee breaks 
 
 <p>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=hellom98" id="counter">
