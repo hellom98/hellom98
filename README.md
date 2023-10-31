@@ -4,7 +4,8 @@
 - 🎓  Computer and Technology
 - 💼  Developer
 - ✍️  Novels
-- ☕  Coffee breaks 
+- ☕  Coffee breaks
+- --
 
 <h3> 🛠 To-do list [Learning]</h3>
 
