@@ -5,7 +5,7 @@
 - 💼  Developer
 - ✍️  Novels
 - ☕  Coffee breaks
-- --
+- -- etc
 
 <h3> 🛠 To-do list [Learning]</h3>
 
